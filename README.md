@@ -1,1 +1,1 @@
-# Warehouse-C-Project
+# Warehouse management system using only C programming. 
